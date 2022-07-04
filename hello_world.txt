@@ -3,3 +3,13 @@ hello world!
 my first steps towards web development! 
 
 this is really fascinating!
+
+#####
+code here
+#####
+
+some code here
+
+programs here! 
+
+blah blah blah
